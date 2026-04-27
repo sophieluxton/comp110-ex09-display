@@ -4,7 +4,7 @@ layout: default
 ---
 # Sophie Luxton's COMP110 Display Website
 
-<img src="/comp110-ex09-display/personal-site.github.io/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="500"/>
+<img src="/comp110-ex09-display/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="500"/>
 
 ## Welcome to My Website
 
