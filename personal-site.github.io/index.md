@@ -2,12 +2,14 @@
 # Do not edit the text between these lines!
 layout: default
 ---
+# Sophie Luxton's COMP110 Display Website
 
-# This is a big header
+<img src="/comp110-ex09-display/personal-site.github.io/static/imgs/logo.png" alt="Image of Comp110 rainbow logo." width="500"/>
 
-<!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+## Welcome to My Website
 
-## This is a small header
+This website is for my COMP110 EX09 display assignment. Here I can share markdown formatting, images, and information about myself.
 
-This is basic paragraph text.
+### About Me
+
+I am Sophie Luxton, a student in COMP110 learning how to create websites using GitHub Pages and Markdown.
